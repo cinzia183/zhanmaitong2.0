@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "wire-2026",
+    "name": "wire 2026",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-17",
+    "city": "杜塞尔多夫",
+    "country": "德国",
+    "industry": "金属加工 / 工业制造",
+    "summary": "适合工业制造、设备出口、材料与加工相关企业关注的国际展会。",
+    "target_buyers": [
+      "工业设备采购商",
+      "制造企业",
+      "行业分销商"
+    ],
+    "sample_fields": [
+      "公司名称",
+      "国家",
+      "城市",
+      "行业标签"
+    ],
+    "source_note": "示例数据，仅用于初始化结构。",
+    "featured": true
+  },
+  {
+    "slug": "in-cosmetics-global-2026",
+    "name": "in-cosmetics Global 2026",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "city": "巴黎",
+    "country": "法国",
+    "industry": "美妆个护 / 化妆品原料",
+    "summary": "适合美妆品牌、OEM、原料供应商和渠道开发团队关注的国际展会。",
+    "target_buyers": [
+      "品牌方",
+      "OEM/ODM",
+      "原料采购方"
+    ],
+    "sample_fields": [
+      "公司名称",
+      "国家",
+      "产品方向",
+      "合作角色"
+    ],
+    "source_note": "示例数据，仅用于初始化结构。",
+    "featured": true
+  },
+  {
+    "slug": "salone-del-mobile-2026",
+    "name": "Salone del Mobile 2026",
+    "start_date": "2026-04-21",
+    "end_date": "2026-04-26",
+    "city": "米兰",
+    "country": "意大利",
+    "industry": "家具 / 家居设计",
+    "summary": "适合家具、家居、设计品牌和进口渠道开发团队关注的国际展会。",
+    "target_buyers": [
+      "家具买手",
+      "进口商",
+      "渠道商"
+    ],
+    "sample_fields": [
+      "公司名称",
+      "国家",
+      "渠道类型",
+      "品类方向"
+    ],
+    "source_note": "示例数据，仅用于初始化结构。",
+    "featured": true
+  }
+]
