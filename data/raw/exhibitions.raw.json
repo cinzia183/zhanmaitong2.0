@@ -1,0 +1,183 @@
+{
+  "imported_at": "2026-04-09T22:27:40.060Z",
+  "source_count": 1,
+  "record_count": 6,
+  "sources": [
+    {
+      "id": "sample-json",
+      "type": "json",
+      "path": "data/raw/exhibitions.sample.json",
+      "enabled": true
+    }
+  ],
+  "records": [
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 1,
+      "slug": "wire-2026",
+      "name": "wire 2026",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "city": "杜塞尔多夫",
+      "country": "德国",
+      "industry": "金属加工 / 工业制造",
+      "summary": "聚焦线缆、金属材料与工业制造供应链，适合设备出口、零部件和工业材料团队研究欧洲制造客户与分销网络。",
+      "target_buyers": [
+        "工业设备采购商",
+        "制造企业",
+        "行业分销商"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "城市",
+        "行业标签",
+        "采购角色"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": true
+    },
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 2,
+      "slug": "in-cosmetics-global-2026",
+      "name": "in-cosmetics Global 2026",
+      "start_date": "2026-04-14",
+      "end_date": "2026-04-16",
+      "city": "巴黎",
+      "country": "法国",
+      "industry": "美妆个护 / 化妆品原料",
+      "summary": "适合关注品牌合作、OEM/ODM 与原料应用方向的中国美妆企业，用于判断欧洲市场的产品趋势与合作角色。",
+      "target_buyers": [
+        "品牌方",
+        "OEM/ODM",
+        "原料采购方"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "产品方向",
+        "合作角色",
+        "官网"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": true
+    },
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 3,
+      "slug": "salone-del-mobile-2026",
+      "name": "Salone del Mobile 2026",
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-26",
+      "city": "米兰",
+      "country": "意大利",
+      "industry": "家具 / 家居设计",
+      "summary": "适合家具、灯饰与家居品牌关注欧洲设计渠道、买手店和高端零售场景的国际展会方向。",
+      "target_buyers": [
+        "家具买手",
+        "进口商",
+        "渠道商"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "渠道类型",
+        "品类方向",
+        "联系人角色"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": true
+    },
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 4,
+      "slug": "ifa-berlin-2026",
+      "name": "IFA Berlin 2026",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-08",
+      "city": "柏林",
+      "country": "德国",
+      "industry": "消费电子 / 智能硬件",
+      "summary": "适合消费电子、智能家居和硬件品牌研究欧洲零售渠道、品牌合作与经销伙伴分布。",
+      "target_buyers": [
+        "电子零售商",
+        "品牌采购负责人",
+        "欧洲分销商"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "渠道属性",
+        "采购品类",
+        "合作区域"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": true
+    },
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 5,
+      "slug": "sial-paris-2026",
+      "name": "SIAL Paris 2026",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-21",
+      "city": "巴黎",
+      "country": "法国",
+      "industry": "食品饮料 / 配料",
+      "summary": "适合食品原料、休闲食品和餐饮供应链企业研究进口商、区域分销和品牌合作机会。",
+      "target_buyers": [
+        "进口商",
+        "连锁采购团队",
+        "食品渠道商"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "产品分类",
+        "渠道类型",
+        "进口资质关注点"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": false
+    },
+    {
+      "source_id": "sample-json",
+      "source_type": "json",
+      "source_path": "data/raw/exhibitions.sample.json",
+      "imported_row": 6,
+      "slug": "medica-2026",
+      "name": "MEDICA 2026",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-19",
+      "city": "杜塞尔多夫",
+      "country": "德国",
+      "industry": "医疗器械 / 医疗供应链",
+      "summary": "适合医疗器械、耗材与健康科技企业研究医院渠道、进口代理与专业分销体系。",
+      "target_buyers": [
+        "医疗分销商",
+        "医院采购负责人",
+        "进口代理商"
+      ],
+      "sample_fields": [
+        "公司名称",
+        "国家",
+        "业务类型",
+        "产品方向",
+        "认证要求"
+      ],
+      "source_note": "当前页面基于公开展会信息整理，供企业前期研究与项目评估使用。",
+      "featured": false
+    }
+  ]
+}

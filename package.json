@@ -1,0 +1,31 @@
+{
+  "name": "zhanmaitong",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "data:import": "node --experimental-strip-types scripts/import-exhibitions.ts",
+    "data:normalize": "node --experimental-strip-types scripts/normalize-exhibitions.ts",
+    "data:build": "node --experimental-strip-types scripts/build-data.ts",
+    "data:update": "npm run data:import && npm run data:normalize && npm run data:build",
+    "validate:data": "npm run data:update"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3"
+  }
+}
